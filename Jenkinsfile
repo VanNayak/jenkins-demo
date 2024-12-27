@@ -8,7 +8,7 @@ pipeline {
       }
     }
     
-    stage('stage1') {
+    stage('stage2') {
       steps{
         echo "The Jenkins file is working!!!"
       }
