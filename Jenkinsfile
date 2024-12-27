@@ -4,7 +4,7 @@ pipeline {
     
     stage('stage1') {
       steps {
-      echo "test for Jenkinsfile
+      echo "test for Jenkinsfile"
       }
     }
     
